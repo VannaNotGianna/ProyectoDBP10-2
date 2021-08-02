@@ -22,6 +22,7 @@ Ser una aplicación utilizada por diferentes geriatricos y clinicas para poder t
 **Herramientas:**
 - Android Studio
 - Java
+- OkHttp
     
 
 **Base de Datos:**
